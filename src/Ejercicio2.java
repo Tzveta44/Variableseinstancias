@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejercicio2 {
     public static void main(String[] args) {
 
-        //Pedir un numero e indicr si es poitivo o negativo
+        //Pedir un numero e indicar si es poitivo o negativo
 
         Scanner tecladoEntrada = new Scanner(System.in);
         int numero;

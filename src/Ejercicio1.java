@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejercicio1 {
     public static void main(String[] args) {
 
-        //Pedir dos numeros y decir si son iguales
+        //Pedir dos numeros y decir si son iguales o no
 
         Scanner tecladoEntrada = new Scanner(System.in);
         int numero1, numero2=0;
