@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9c7a6b-6df0-4025-be41-e4815fd00ec8" name="Changes" comment="Variableseinstancias">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio9.java" afterDir="false" />
+    <list default="true" id="ae9c7a6b-6df0-4025-be41-e4815fd00ec8" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,20 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tzveta44"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="432ec6e1-47d2-462b-b109-6ff373a9a7c5" />
+        <option name="url" value="https://github.com/Tzveta44/Variableseinstancias.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -118,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697467351994</updated>
       <workItem from="1697489928784" duration="150000" />
-      <workItem from="1697490090070" duration="2012000" />
+      <workItem from="1697490090070" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="Variableseinstancias">
       <option name="closed" value="true" />
@@ -128,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697533739926</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1697534140549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697534140549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1697534247411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697534247411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio6.java" />
     <MESSAGE value="Variableseinstancias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variableseinstancias" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
